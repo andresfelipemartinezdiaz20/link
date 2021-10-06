@@ -1,0 +1,5 @@
+name: example-module
+description: Prueba de modulo para link group
+package: Andres
+type: module
+core: 8.x

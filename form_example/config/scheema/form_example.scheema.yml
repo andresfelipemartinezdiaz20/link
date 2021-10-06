@@ -1,0 +1,22 @@
+form_example.form_example.*:
+  type: config_entity
+  label: 'form example'
+  mapping:
+    name:
+      label: Nombre
+      type: string
+    id:
+      label: Identificación
+      type: string
+    fecha:
+      label: fecha de nacimiento
+      type: date
+    select:
+      label: cargo
+      type: string
+    select-estado:
+      label: estado
+      type: string
+
+      
+    
